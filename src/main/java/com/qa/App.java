@@ -26,7 +26,7 @@ public class App
         return "Goodbye World!";
     }
 
-    public static String sayHelloToSomeone(String name)
+    public static String sayHelloToSomeone(String name){
         return "Hello " + name ;
     }
 }
